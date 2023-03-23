@@ -46,7 +46,7 @@ when user click on reset button after successfully login, an email will be sent 
 ### step 1: clone the repo
 
 ```
-git clone :
+git clone :  https://github.com/Rk344300/Node_Authentication
 
 ```
 
